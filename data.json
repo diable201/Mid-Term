@@ -1,0 +1,16 @@
+{
+   "Subscriptions": [
+      {
+         "name": "Three month subscription",
+         "price": "39900"
+      },
+      {
+         "name": "One month subscription",
+         "price": "19900"
+      },
+      {
+         "name": "Premium trial",
+         "price": "40000"
+      }
+   ]
+}
